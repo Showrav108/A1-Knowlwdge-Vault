@@ -33,14 +33,14 @@ nav ul li a{
     margin-top: 10px;
     color:white;
     background-color:#30B868;
-    padding: 5px;
+    padding: 3px;
     border-radius: 4px;
     border-color: #30B868;
     font-size: 16px;
 }
 .access-button:hover{
-    background-color:aquamarine;
-    /* color: #30B868; */
+    background-color:rgb(151, 238, 209);
+    color: #30B868;
 }
 /* banner section */
 .banner-section{
@@ -88,7 +88,8 @@ nav ul li a{
 }
 /* notes section */
 .notes-section{
-    background: #f2f4f5;
+    background: #e2e6e7;
+    /* background: #cfd3d6;  */
 }
 .notes-title{
     font-style: Bold;
@@ -180,4 +181,11 @@ nav ul li a{
     font-size: 17px;
     font-weight: 300;
     line-height: 20px;
+}
+/* think section */
+.think-section{
+    background: #e2e6e7;
+    margin: 30px 60px;
+    text-align: center;
+    border-radius: 8px;
 }
